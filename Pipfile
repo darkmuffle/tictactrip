@@ -13,6 +13,7 @@ geopy = "*"
 scikit-learn = "*"
 xgboost = "*"
 graphviz = "*"
+folium = "*"
 
 [dev-packages]
 
