@@ -10,6 +10,9 @@ numpy = "*"
 seaborn = "*"
 matplotlib = "*"
 geopy = "*"
+scikit-learn = "*"
+xgboost = "*"
+graphviz = "*"
 
 [dev-packages]
 
